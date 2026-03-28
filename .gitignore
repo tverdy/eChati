@@ -1,0 +1,24 @@
+# Exclude EVERYTHING by default
+/*
+
+# Allow specific distribution files
+!/.gitignore
+!/version.json
+!/package.json
+!/README.md
+!/exe/
+!/exe/**
+
+# Still exclude local data if it's in allowed folders (just in case)
+app_data/
+sessions/
+logs/
+*.pkl
+node_modules/
+__pycache__/
+*.session
+app/frontend/backend_bin/
+app/frontend/dist/
+build/
+dist/
+dist_electron/
