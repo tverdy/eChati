@@ -1,6 +1,6 @@
 {
     "version": "1.1.4",
-    "url": "https://github.com/tverdy/eChati/releases/download/v1.1.3/update.zip",
+    "url": "https://github.com/tverdy/eChati/releases/tag/v1.1.3/update.zip",
     "changelog": "• Стабильная версия v1.1.3\n• Исправлена пересылка видео-заметок\n• Умная подписка с проверкой членства\n• Улучшенный интерфейс и кастомный скроллбар",
     "features": [
         {
