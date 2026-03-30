@@ -1,5 +1,5 @@
 {
-    "version": "1.1.5",
+    "version": "1.1.4",
     "url": "https://github.com/tverdy/eChati/releases/download/v1.1.4/update.zip",
     "changelog": "• Адаптивный интерфейс (Dynamic Zoom)\n• Прокрутка сайдбара исправлена\n• Поддержка скриншотов в окне обновлений\n• Корректное сравнение версий",
     "features": [
