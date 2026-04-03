@@ -11,8 +11,5 @@
             "title": "Проверка обновлений",
             "description": "Исправлена критическая ошибка — проверка обновлений на GitHub теперь работает корректно."
         }
-    ],
-    "screenshots": [
-        "https://github.com/user-attachments/assets/7b9cfefe-1c7e-428e-abd8-d3ee3505ac3c"
     ]
 }
