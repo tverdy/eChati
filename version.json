@@ -1,6 +1,6 @@
 {
     "version": "1.1.8",
-    "url": "https://github.com/tverdy/eChati/releases/download/v1.1.8/update.zip",
+    "url": "https://github.com/tverdy/eChati/releases/download/v1.1.7/update.zip",
     "changelog": "• Исправлена пересылка голосовых сообщений\n• Убраны визуально различимые символы из замены\n• Исправлена проверка обновлений на GitHub\n• Красный индикатор для чатов без ссылки",
     "features": [
         {
